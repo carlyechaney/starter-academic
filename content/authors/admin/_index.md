@@ -51,9 +51,9 @@ email: "Carlye.Chaney@yale.edu"
 highlight_name: false
 ---
 
-The CHERIsHED project stands for Childhood Health and Environment Research on the Influences of Hormones and Endocrine Disruptors. In this project, we are measuring exposure to endocrine disrupting chemicals in New Haven, Connecticut. Endocrine disrupting chemicals are a specific group of chemicals that can interfere with the body's hormone levels. People are exposured to endocrine disruptors from many different sources, including food, water, and the air. We are interested in seeing if different neighborhoods within New Haven have different exposure to endocrine disruptors. We also want to understand how exposure to these chemicals influences infant development. Participants in this study will be asked to collect biological samples (such as urine) from themselves and their infants. Participants will also collect some environmental monitoring samples in their house (such as tap water) and fill out a survey. There are minimal risks to this study. Mothers who participate will receive a personalized report of their and their infant’s endocrine disrupting chemical exposure. They will also receive $40 in compensation upon completion of their participation. 
+The CHERIsHED project stands for Childhood Health and Environment Research on the Influences of Hormones and Endocrine Disruptors. In this project, we are measuring exposure to endocrine disrupting chemicals in New Haven, Connecticut. Endocrine disrupting chemicals are a specific group of chemicals that can interfere with the body's hormone levels. People are exposed to endocrine disruptors from many different sources, including food, water, and the air. We are interested in seeing if different neighborhoods within New Haven have different exposure to endocrine disruptors. We also want to understand how exposure to these chemicals influences infant development. Participants in this study will be asked to collect biological samples (such as urine) from themselves and their infants. Participants will also collect some environmental monitoring samples in their house (such as tap water) and fill out a survey. There are minimal risks to this study. Mothers who participate will receive a personalized report of their and their infant’s endocrine disrupting chemical exposure. They will also receive $40 in compensation upon completion of their participation. 
 
-Please contact the investigator, Carlye Chaney, at Carlye.Chaney@yale.edu or go to the tab on this website titled "Contact" if you are interested in participating or have any questions.
+Please contact the investigator, Carlye Chaney, at Carlye.Chaney@yale.edu or go to the tab on this website titled "Contact" if you are interested in participating or have any questions. This study has received ethical approval by the Human Subjects Committee at Yale (Protocol # 2000025147).
 
 To participate in this study, you must be:
 - The mother of an infant aged two to four months who was not born preterm (before 37 weeks)
@@ -61,6 +61,10 @@ To participate in this study, you must be:
 - A resident of New Haven or nearby towns for 5+ years
 - An English or Spanish speaker
 
- This study has received ethical approval by the Human Subjects Committee at Yale (Protocol # 2000025147).
+If you want to find out more about what participants have to do, go to the tab "Projects".
+
+If you want read about project news and updates, go to the tab "Project Updates".
+
+
 
 
