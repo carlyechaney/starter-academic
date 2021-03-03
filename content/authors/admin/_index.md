@@ -64,9 +64,9 @@ highlight_name: false
 We are studying endocrine disrupting chemical exposure in New Haven, Connecticut. For this project, we are interested in seeing if different areas or demographics within New Haven have different exposure to endocrine disruptors. We also want to understand how exposure to these chemicals influences infant development. Participants in this study will be asked to collect biological samples (such as urine) from themselves and their infants. Participants will also collect some environmental monitoring samples in their house (such as tap water) and fill out a survey. There are minimal risks to this study. Mothers who participate will receive a personalized report of their and their infant’s endocrine disrupting chemical exposure. They will also receive $40 in compensation upon completion of their participation. Please contact the investigator, Carlye Chaney, at Carlye.Chaney@yale.edu if you meet the study criteria below and are interested in participating or have any questions. This study has received ethical approval by the Human Subjects Committee at Yale (Protocol # 2000025147).
 
 To participate in this study, you must be:
-•	The mother of an infant aged two to four months who was not born preterm (before 37 weeks)
-•	Breastfeeding your infant
-•	A resident of New Haven or nearby towns for 5+ years
-•	An English or Spanish speaker
-![avatar](https://user-images.githubusercontent.com/60330966/109739898-52d70200-7b98-11eb-8038-c3bd4852befe.jpg)
+- The mother of an infant aged two to four months who was not born preterm (before 37 weeks)
+- Breastfeeding your infant
+- A resident of New Haven or nearby towns for 5+ years
+- An English or Spanish speaker
+
 
