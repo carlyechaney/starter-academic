@@ -6,7 +6,7 @@ title: CHERIsHED Project
 superuser: true
 
 # Role/position/tagline
-role: Principal Investigator: Carlye Chaney 
+role: Principal Investigator - Carlye Chaney 
 
 # Organizations/Affiliations to show in About widget
 organizations:
