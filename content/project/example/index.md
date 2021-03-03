@@ -1,22 +1,24 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: CHERIsHED Project
+summary: This page provides a more detailed description of the project.
 tags:
-- Deep Learning
-date: "2016-04-27T00:00:00Z"
+- Endocrine Disruptors
+- Maternal Health
+- Infant Development
+date: "2021-03-03T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: 
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+- icon: 
+  icon_pack: 
+  name: 
+  url: 
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -27,15 +29,22 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+The CHERIsHED project aims to better understand the sources and consequences of endocrine disruptor exposure in New Haven. Endocrine disrupting chemicals are a specific group of chemicals that can interfere with the body’s hormone levels. People are exposed to endocrine disruptors from many different sources, including food, water, and the air. Some commonly known endocrine disruptors are lead and BPA. With this project, we will determine what chemicals people in New Haven are exposed to and if exposure differs by neighborhood. We also want to understand how exposure to these chemicals influences infant development since infants are particularly vulnerable to endocrine disruptors.
 
-Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.
+We value our participants' help in addressing this important question. We provide $40 to mothers who participate to compensate them for their time. Once we have results from the study, we will also give a participants a personalized report of their and their infant’s endocrine disrupting chemical exposure. 
 
-Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.
+Mothers participating in the study collect several samples to help us determine endocrine disruptor exposure. First, participants wear a silicone wristbands for 7 days to measure contaminants in the air. Then, they collect a sample of their urine and a sample of their infants. They also collect samples of their household water and breastmilk. After researchers collect the samples, participants fill out a survey to help the researchers better understand the participant's work and home life and sources of endocrine disruptor exposure not measured by the samples, like diet. 
 
-Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.
+If you would like to participate, you must meet the following criteria:
+- The mother of an infant aged two to four months who was not born preterm (before 37 weeks)
+- Breastfeeding your infant
+- A resident of New Haven or nearby towns for 5+ years
+- An English or Spanish speaker
 
-Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.
+Please email the lead researcher at Carlye.Chaney@yale.edu or go to the "Contact" tab if you are interested in participating in this study!
+![8x11 5 flyer (1)](https://user-images.githubusercontent.com/60330966/109863410-97fa4300-7c2f-11eb-82c6-69b76e7685b3.png)
+
+
