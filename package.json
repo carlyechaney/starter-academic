@@ -21,3 +21,18 @@
   },
   "homepage": "https://github.com/gcushen/hugo-academic#readme"
 }
+{
+  "name": "es6",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.8.1"
+  }
+
+}
