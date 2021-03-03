@@ -17,7 +17,7 @@ content:
   autolink: true
   
   # Email form provider
-  form:
+  form: carlye.chaney@yale.edu
     provider: netlify
     formspree:
       id:
