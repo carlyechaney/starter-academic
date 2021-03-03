@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Carlye Chaney
+title: CHERIsHED Project 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Biological Anthropology at Yale University
+role: Principal Investigator: Carlye Chaney 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Yale University
+- name: Yale University, Department of Anthropology
   url: https://anthropology.yale.edu/people/carlye-chaney/
 
 # Short bio (displayed in user profile at end of posts)
@@ -23,8 +23,7 @@ interests:
 - Endocrine disruptors
 
 # Education to show in About widget
-education:
-  courses:
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -33,19 +32,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: 'mailto:carlye.chaney@yale.edu'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://twitter.com/CarlyeChaney
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -55,7 +45,7 @@ social:
 #   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "Carlye.Chaney@yale.edu"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
