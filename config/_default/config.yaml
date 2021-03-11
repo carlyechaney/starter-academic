@@ -16,18 +16,6 @@ hasCJKLanguage: false
 defaultContentLanguageInSubdir: true
 removePathAccents: true
 
-languages:
-  en:
-    baseURL: https://cherished-project.netlify.app
-    languageName: English
-    title: In English
-    weight: 2
-  es:
-    baseURL: https://cherished-project.netlify.app.es
-    languageName: Spanish
-    title: En Espanol 
-    weight: 1
-
 ############################
 ## MODULES
 ############################
