@@ -16,16 +16,15 @@ hasCJKLanguage: false
 defaultContentLanguageInSubdir: true
 removePathAccents: true
 
-[languages]
-    [languages.en]
-        languageName = "English"
-        languageCode = "en-us"
-        url = "/en/"
-
-    [languages.es]
-        languageName = "Spanish"
-        languageCode = "es"
-        url = "/es/"
+en:
+    params:
+    title: CHERIsHED Project
+    weight: 1
+  fr:
+    params:
+      navigation:
+        help: Ayuda
+    title: El Proyecto CHERIsHED
 
 ############################
 ## MODULES
