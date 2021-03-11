@@ -17,14 +17,11 @@ defaultContentLanguageInSubdir: true
 removePathAccents: true
 
 en:
-    params:
-    title: CHERIsHED Project
+   title: CHERIsHED Project
     weight: 1
-  fr:
-    params:
-      navigation:
-        help: Ayuda
+ es:
     title: El Proyecto CHERIsHED
+    weight: 2
 
 ############################
 ## MODULES
