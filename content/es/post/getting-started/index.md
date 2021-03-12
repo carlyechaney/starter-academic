@@ -1,5 +1,5 @@
 ---
-title: We are currently looking for participants!
+title: ¡Actualmente estamos buscando participantes!
 subtitle: 
 
 # Summary for listings and search engines
@@ -32,21 +32,24 @@ authors:
 - admin
 
 tags:
-- Recruitment
-- Endocrine disruptors
-- Maternal Health
-- Infant Development
+- Reclutamiento
+- Disruptores Endocrinos
+- Salud Maternal
+- Desarollo Infantil
 
 categories:
-- Recruitment
+- Reclutamiento
 ---
 
-We are currently looking for participants for the CHERIsHED Project! Please reach out to Carlye.Chaney@yale.edu or go the "Contact" tab if you are interested in participating and meet these criteria: 
-- You are the mother of an infant aged two to four months who was not born preterm (before 37 weeks)
-- You are breastfeeding your infant
-- You are currently a resident of New Haven and have lived in New Haven or a nearby town for 5+ years
-- You speak English or Spanish
+¡Actualmente estamos buscando participantes! Por favor comuníquese con la investigadora, Carlye Chaney, en el siguiente correo electrónico Carlye.Chaney@yale.edu o visite la pestaña "Contactar" en este sitio de web si le interesa participar y cumple los siguientes requisitos:  
+- Ser madre de un bebé de dos a cuatro meses que no nació de forma prematura (antes de las 37 semanas)
+- Amamantar a su bebé
+- Ser residente de New Haven o pueblos cercanos por más de 5 años
+- Hablar inglés o español
 
-Mothers who participate will recieve $40 and a personalized report of their and their infant's exposure. See the flyer below and the "Projects" tab for more information on what participating involves. 
-![8x11 5 flyer (1)](https://user-images.githubusercontent.com/60330966/109865357-f1fc0800-7c31-11eb-82f1-c000c6cb9d6b.png)
+Madres que partipan recibirán $40 y un informe personalizado sobre su exposición y la de su bebé a los disruptores endocrinos. 
+
+Vea el folante abajo o la pestaña "Proyectos" para más información sobre lo que implica participar. 
+![Flyer Español (1)](https://user-images.githubusercontent.com/60330966/110884632-64648c00-82b3-11eb-933d-dcf3aa58a395.png)
+
 
