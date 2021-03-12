@@ -1,10 +1,10 @@
 ---
 title: CHERIsHED Project
-summary: This page provides a more detailed description of the project.
+summary: Esta página tiene una descripción más detallada del proyecto. 
 tags:
-- Endocrine Disruptors
-- Maternal Health
-- Infant Development
+- Disruptores Endocrinos
+- Salud Maternal
+- Desarollo Infantil
 date: "2021-03-03T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -32,19 +32,19 @@ url_video: ""
 # slides: example
 ---
 
-The CHERIsHED project aims to better understand the sources and consequences of endocrine disruptor exposure in New Haven. Endocrine disrupting chemicals are a specific group of chemicals that can interfere with the body’s hormone levels. People are exposed to endocrine disruptors from many different sources, including food, water, and the air. Some commonly known endocrine disruptors are lead and BPA. With this project, we will determine what chemicals people in New Haven are exposed to and if exposure differs by neighborhood. We also want to understand how exposure to these chemicals influences infant development since infants are particularly vulnerable to endocrine disruptors.
+El Proyecto CHERIsHED tiene como objetivo comprender mejor las fuentes y consecuencias de la exposición a los disruptores endocrinos en New Haven. Los disruptores endocrinos son un grupo específico de quimicos que pueden interferir con los nivels de hormonas en el cuerpo. La exposición a los disruptores endocrinos viene de muchas fuentes, incluyendo comida, agua, y el aire. Algunos disruptores endocrinos comúnmente conocidos son el plomo y BPA. Con este proyecto, determinaremos a qué sustancias químicas están expuestas las personas en New Haven y si la exposición difiere según el vecindario. También queremos entender cómo la exposición a los disruptores endocrinos influye en el desarrollo infantil porque los bebés son particularmente vulnerables a los disruptores endocrinos. 
 
-We value our participants' help in addressing this important question. We provide $40 to mothers who participate to compensate them for their time. Once we have results from the study, we will also give a participants a personalized report of their and their infant’s endocrine disrupting chemical exposure. 
+WValoramos la ayuda de nuestros participantes para abordar esta importante pregunta. Pagamos $40 a las madres que participan para compensarlas por su tiempo. Una vez que tengamos los resultados del estudio, también daremos a los participantes un informe personalizado de su exposición y la de su bebé a los disruptores endocrino. 
 
-Mothers participating in the study collect several samples to help us determine endocrine disruptor exposure. First, participants wear a silicone wristbands for 7 days to measure contaminants in the air. Then, they collect a sample of their urine and a sample of their infants. They also collect samples of their household water and breastmilk. After researchers collect the samples, participants fill out a survey to help the researchers better understand the participant's work and home life and sources of endocrine disruptor exposure not measured by the samples, like diet. 
+Las madres que participan en el estudio recolecten varias muestras para ayudarnos a determinar la exposición a los disruptores endocrinos. Primero, los participantes llevan pulseras de silicona durante 7 días para medir contaminantes en el aire. Luego, recolecten una muestra de su orina y una muestra de la orina de su bebe. También, recolecten muestras de el agua del grifo y su leche materna. Después de que los investigadores recojan las muestras, participantes llenen un cuestionario para ayudar los investigadores a entender el trabajo del participante y la vida en el hogar y las fuentes de exposición a los disruptores endocrinos no medidas por las muestras, como la dieta.  
 
-If you would like to participate, you must meet the following criteria:
-- The mother of an infant aged two to four months who was not born preterm (before 37 weeks)
-- Breastfeeding your infant
-- A resident of New Haven or nearby towns for 5+ years
-- An English or Spanish speaker
+Para participar en este estudio, se deben cumplir los siguientes requisitos:
+-	Ser madre de un bebé de dos a cuatro meses que no nació de forma prematura (antes de las 37 semanas)
+-	Amamantar a su bebé
+-	Ser residente de New Haven o pueblos cercanos por más de 5 años
+-	Hablar inglés o español
 
-Please email the lead researcher at Carlye.Chaney@yale.edu or go to the "Contact" tab if you are interested in participating in this study!
-![8x11 5 flyer (1)](https://user-images.githubusercontent.com/60330966/109863410-97fa4300-7c2f-11eb-82c6-69b76e7685b3.png)
+¡Por favor comuníquese con la investigadora, Carlye Chaney, en el siguiente correo electrónico Carlye.Chaney@yale.edu o visite la pestaña "Contactar" en este sitio de web si le interesa participar!
+![Flyer Español (1)](https://user-images.githubusercontent.com/60330966/110883963-43e80200-82b2-11eb-976c-e0daf95f0368.png)
 
 
