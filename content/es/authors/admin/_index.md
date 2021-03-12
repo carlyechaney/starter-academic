@@ -1,16 +1,16 @@
 ---
 # Display name
-title: CHERIsHED Project 
+title: El Proyecto CHERIsHED 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Principal Investigator - Carlye Chaney 
+role: Investigadora principal - Carlye Chaney 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Yale University, Department of Anthropology
+- name: Yale University, Departamento de Antropología
   url: https://anthropology.yale.edu/people/carlye-chaney/
 
 # Short bio (displayed in user profile at end of posts)
@@ -18,9 +18,9 @@ bio: I am a anthropologist interested in how environmental exposures influence m
 
 # Interests to show in About widget
 interests:
-- Maternal health
-- Infant development
-- Endocrine disruptors
+- Salud Maternal 
+- Desarollo infantil
+- Disruptores endocrinos
 
 # Education to show in About widget
 
@@ -51,19 +51,20 @@ email: "Carlye.Chaney@yale.edu"
 highlight_name: false
 ---
 
-The CHERIsHED project stands for Childhood Health and Environment Research on the Influences of Hormones and Endocrine Disruptors. In this project, we are measuring exposure to endocrine disrupting chemicals in New Haven, Connecticut. Endocrine disrupting chemicals are a specific group of chemicals that can interfere with the body's hormone levels. People are exposed to endocrine disruptors from many different sources, including food, water, and the air. We are interested in seeing if different neighborhoods within New Haven have different exposure to endocrine disruptors. We also want to understand how exposure to these chemicals influences infant development. Participants in this study will be asked to collect biological samples (such as urine) from themselves and their infants. Participants will also collect some environmental monitoring samples in their house (such as tap water) and fill out a survey. There are minimal risks to this study. Mothers who participate will receive a personalized report of their and their infant’s endocrine disrupting chemical exposure. They will also receive $40 in compensation upon completion of their participation. 
+El Proyecto CHERIsHED significa Investigación sobre las influencias de las hormonas y los disruptores endocrinos para la salud infantil (las primeras letras de las palabras hacen la palabra CHERIsHED en íngles. En este proyeco, medimos la exposición a los disruptores endocrinos en New Haven, Connecticut. Los disruptores endocrinos son un grupo específico de quimicos que pueden interferir con los nivels de hormonas en el cuerpo. La exposición a los disruptores endocrinos viene de muchas fuentes, incluyendo comida, agua, y el aire. Estamos interesados en ver si distintos barrios dentro de New Haven tienen una exposición diferente a los disruptores endocrinos. También queremos entender  cómo la exposición a los disruptores endocrinos influye en el desarrollo infantil. A los participantes en este estudio se les pedirá que recolecten muestras biológicas (como orina) de ellos mismos y de sus bebés. También se les solicitará a los participantes que recolecten algunas muestras de monitoreo ambiental en su casa (como agua del grifo) y llenen un cuestionario. Los riesgos para este estudio son mínimos. Las madres que participen recibirán un informe personalizado sobre su exposición y la de su bebé a los disruptores endocrinos. También recibirán $ 40 en compensación al completar su participación. 
 
-Please contact the investigator, Carlye Chaney, at Carlye.Chaney@yale.edu or go to the tab on this website titled "Contact" if you are interested in participating or have any questions. This study has received ethical approval by the Human Subjects Committee at Yale (Protocol # 2000025147).
+Por favor comuníquese con la investigadora, Carlye Chaney, en el siguiente correo electrónico Carlye.Chaney@yale.edu o visite la pestaña "Contactar" en este sitio de web si le interesa participar o si tiene alguna pregunta. Este estudio ha recibido la aprobación ética del Comité de Sujetos Humanos de Yale (Protocolo n. ° 2000025147).
 
-To participate in this study, you must be:
-- The mother of an infant aged two to four months who was not born preterm (before 37 weeks)
-- Breastfeeding your infant
-- A resident of New Haven or nearby towns for 5+ years
-- An English or Spanish speaker
+Para participar en este estudio, se deben cumplir los siguientes requisitos:
+- Ser madre de un bebé de dos a cuatro meses que no nació de forma prematura (antes de las 37 semanas)
+- Amamantar a su bebé
+- Ser residente de New Haven o pueblos cercanos por más de 5 años
+- Hablar inglés o español
 
-If you want to find out more about what participants have to do, go to the tab "Projects".
 
-If you want read about project news and updates, go to the tab "Project Updates".
+Se puede encontrar más información sobre lo que pedimos de las participantes en la pestaña "Proyectos".
+
+Se puede encontrar las últimas noticias del proyecto noticias en la pestaña "Noticias".
 
 
 
