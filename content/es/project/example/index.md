@@ -1,5 +1,5 @@
 ---
-title: CHERIsHED Project
+title: El Proyecto CHERIsHED 
 summary: Esta página tiene una descripción más detallada del proyecto. 
 tags:
 - Disruptores Endocrinos
