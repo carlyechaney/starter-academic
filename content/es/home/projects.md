@@ -27,10 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Recruitment
-    tag: Recruitment
-  - name: Results
-    tag: Results
+  - name: Reclutamiento
+    tag: Reclutamiento
+  - name: Resultados
+    tag: Resultados
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
