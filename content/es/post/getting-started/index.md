@@ -50,6 +50,7 @@ categories:
 Madres que partipan recibirán $40 y un informe personalizado sobre su exposición y la de su bebé a los disruptores endocrinos. 
 
 Vea el folante abajo o la pestaña "Proyectos" para más información sobre lo que implica participar. 
-![Flyer Español (1)](https://user-images.githubusercontent.com/60330966/110884632-64648c00-82b3-11eb-933d-dcf3aa58a395.png)
+![Flyer Español (2)](https://user-images.githubusercontent.com/60330966/111157356-2c886d80-856d-11eb-93d2-0b74c79da827.png)
+
 
 
