@@ -45,6 +45,6 @@ Para participar en este estudio, se deben cumplir los siguientes requisitos:
 -	Hablar inglés o español
 
 ¡Por favor comuníquese con la investigadora, Carlye Chaney, en el siguiente correo electrónico Carlye.Chaney@yale.edu o visite la pestaña "Contactar" en este sitio de web si le interesa participar!
-![Flyer Español (1)](https://user-images.githubusercontent.com/60330966/110883963-43e80200-82b2-11eb-976c-e0daf95f0368.png)
+![Flyer Español (2)](https://user-images.githubusercontent.com/60330966/111157449-45911e80-856d-11eb-85f2-2ad9ba4099a6.png)
 
 
