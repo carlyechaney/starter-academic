@@ -1,5 +1,5 @@
 ---
-title: El Proyecto CHERIsHED 
+title: Proyecto CHERIsHED 
 summary: Esta página tiene una descripción más detallada del proyecto. 
 tags:
 - Disruptores Endocrinos
@@ -32,9 +32,9 @@ url_video: ""
 # slides: example
 ---
 
-El Proyecto CHERIsHED tiene como objetivo comprender mejor las fuentes y consecuencias de la exposición a los disruptores endocrinos en New Haven. Los disruptores endocrinos son un grupo específico de quimicos que pueden interferir con los nivels de hormonas en el cuerpo. La exposición a los disruptores endocrinos viene de muchas fuentes, incluyendo comida, agua, y el aire. Algunos disruptores endocrinos comúnmente conocidos son el plomo y BPA. Con este proyecto, determinaremos a qué sustancias químicas están expuestas las personas en New Haven y si la exposición difiere según el vecindario. También queremos entender cómo la exposición a los disruptores endocrinos influye en el desarrollo infantil porque los bebés son particularmente vulnerables a los disruptores endocrinos. 
+Proyecto CHERIsHED tiene como objetivo comprender mejor las fuentes y consecuencias de la exposición a los disruptores endocrinos en New Haven. Los disruptores endocrinos son un grupo específico de quimicos que pueden interferir con los nivels de hormonas en el cuerpo. La exposición a los disruptores endocrinos viene de muchas fuentes, incluyendo comida, agua, y el aire. Algunos disruptores endocrinos comúnmente conocidos son el plomo y BPA. Con este proyecto, determinaremos a qué sustancias químicas están expuestas las personas en New Haven y si la exposición difiere según el vecindario. También queremos entender cómo la exposición a los disruptores endocrinos influye en el desarrollo infantil porque los bebés son particularmente vulnerables a los disruptores endocrinos. 
 
-WValoramos la ayuda de nuestros participantes para abordar esta importante pregunta. Pagamos $40 a las madres que participan para compensarlas por su tiempo. Una vez que tengamos los resultados del estudio, también daremos a los participantes un informe personalizado de su exposición y la de su bebé a los disruptores endocrino. 
+Valoramos la ayuda de nuestros participantes para abordar esta importante pregunta. Pagamos $40 a las madres que participan para compensarlas por su tiempo. Una vez que tengamos los resultados del estudio, también daremos a los participantes un informe personalizado de su exposición y la de su bebé a los disruptores endocrino. 
 
 Las madres que participan en el estudio recolecten varias muestras para ayudarnos a determinar la exposición a los disruptores endocrinos. Primero, los participantes llevan pulseras de silicona durante 7 días para medir contaminantes en el aire. Luego, recolecten una muestra de su orina y una muestra de la orina de su bebe. También, recolecten muestras de el agua del grifo y su leche materna. Después de que los investigadores recojan las muestras, participantes llenen un cuestionario para ayudar los investigadores a entender el trabajo del participante y la vida en el hogar y las fuentes de exposición a los disruptores endocrinos no medidas por las muestras, como la dieta.  
 
