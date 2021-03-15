@@ -36,7 +36,7 @@ The CHERIsHED project aims to better understand the sources and consequences of 
 
 We value our participants' help in addressing this important question. We pay $40 to mothers who participate to compensate them for their time. Once we have results from the study, we will also give a participants a personalized report of their and their infant’s endocrine disrupting chemical exposure. 
 
-Mothers participating in the study collect several samples to help us determine endocrine disruptor exposure. First, participants wear a silicone wristbands for 7 days to measure contaminants in the air. Then, they collect a sample of their urine and a sample of their infants. They also collect samples of their household water and breastmilk. After researchers pick up the samples, participants fill out a survey to help the researchers better understand the participant's work and home life and sources of endocrine disruptor exposure not measured by the samples, like diet. 
+Mothers participating in the study collect several samples to help us determine endocrine disruptor exposure. First, participants wear a silicone wristband for 7 days to measure contaminants in the air. Then, they collect a sample of their urine and a sample of their infants. They also collect samples of their household water and breastmilk. After researchers pick up the samples, participants fill out a survey to help the researchers better understand the participant's work and home life and sources of endocrine disruptor exposure not measured by the samples, like diet. 
 
 If you would like to participate, you must meet the following criteria:
 - The mother of an infant aged two to four months who was not born preterm (before 37 weeks)
