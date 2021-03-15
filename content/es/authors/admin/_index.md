@@ -1,6 +1,6 @@
 ---
 # Display name
-title: El Proyecto CHERIsHED 
+title: Proyecto CHERIsHED 
 
 # Is this the primary user of the site?
 superuser: true
