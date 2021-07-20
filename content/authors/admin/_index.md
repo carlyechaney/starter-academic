@@ -14,7 +14,7 @@ organizations:
   url: https://anthropology.yale.edu/people/carlye-chaney/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a anthropologist interested in how environmental exposures influence maternal and infant health.
+bio: I am an anthropologist interested in how environmental exposures influence maternal and infant health.
 
 # Interests to show in About widget
 interests:
