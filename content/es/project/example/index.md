@@ -42,7 +42,7 @@ Para participar en este estudio, se deben cumplir los siguientes requisitos:
 -	Ser madre de un bebé de dos a cuatro meses que no nació de forma prematura (antes de las 37 semanas)
 -	Amamantar a su bebé
 -	Ser residente actual de New Haven
-- Vivir en New Haven o pueblos cercanos por más de 5 años
+- Ser residente de New Haven o pueblos cercanos por más de 5 años
 -	Hablar inglés o español
 
 ¡Por favor comuníquese con la investigadora, Carlye Chaney, en el siguiente correo electrónico Carlye.Chaney@yale.edu o visite la pestaña "Contactar" en este sitio de web si le interesa participar!
