@@ -41,7 +41,8 @@ Mothers participating in the study collect several samples to help us determine 
 If you would like to participate, you must meet the following criteria:
 - The mother of an infant aged two to four months who was not born preterm (before 37 weeks)
 - Breastfeeding your infant
-- A resident of New Haven or nearby towns for 5+ years
+- Currently living in New Haven
+- Have been a resident of New Haven or nearby towns for 5+ years
 - An English or Spanish speaker
 
 Please email the lead researcher at Carlye.Chaney@yale.edu or go to the "Contact" tab if you are interested in participating in this study!
