@@ -14,7 +14,7 @@ organizations:
   url: https://anthropology.yale.edu/people/carlye-chaney/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a anthropologist interested in how environmental exposures influence maternal and infant health.
+bio: I am an anthropologist interested in how environmental exposures influence maternal and infant health.
 
 # Interests to show in About widget
 interests:
@@ -58,7 +58,8 @@ Por favor comuníquese con la investigadora, Carlye Chaney, en el siguiente corr
 Para participar en este estudio, se deben cumplir los siguientes requisitos:
 - Ser madre de un bebé de dos a cuatro meses que no nació de forma prematura (antes de las 37 semanas)
 - Amamantar a su bebé
-- Ser residente de New Haven o pueblos cercanos por más de 5 años
+- Ser residente actual de New Haven
+- Vivir en New Haven o pueblos cercanos por más de 5 años
 - Hablar inglés o español
 
 
