@@ -44,7 +44,8 @@ categories:
 We are currently looking for participants for the CHERIsHED Project! Please reach out to Carlye.Chaney@yale.edu or go the "Contact" tab if you are interested in participating and meet these criteria: 
 - You are the mother of an infant aged two to four months who was not born preterm (before 37 weeks)
 - You are breastfeeding your infant
-- You are currently a resident of New Haven and have lived in New Haven or a nearby town for 5+ years
+- You are currently living in New Haven
+- You have lived in New Haven or nearby towns for 5+ years
 - You speak English or Spanish
 
 Mothers who participate will recieve $40 and a personalized report of their and their infant's exposure. See the flyer below and the "Projects" tab for more information on what participating involves. 
