@@ -45,13 +45,12 @@ categories:
 - Ser madre de un bebé de dos a cuatro meses que no nació de forma prematura (antes de las 37 semanas)
 - Amamantar a su bebé
 - Ser residente actual de New Haven
-- Ser residente de New Haven o pueblos cercanos por más de 5 años
 - Hablar inglés o español
 
 Madres que partipan recibirán $40 y un informe personalizado sobre su exposición y la de su bebé a los disruptores endócrinos. 
 
 Vea el folante abajo o la pestaña "Proyectos" para más información sobre lo que implica participar. 
-![Flyer Español (2)](https://user-images.githubusercontent.com/60330966/111157356-2c886d80-856d-11eb-93d2-0b74c79da827.png)
+![Flyer Español (2)](https://user-images.githubusercontent.com/60330966/131266646-e7e4c982-2c98-41e6-ac58-3e9280847a15.png)
 
 
 
