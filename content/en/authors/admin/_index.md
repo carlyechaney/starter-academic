@@ -59,7 +59,6 @@ To participate in this study, you must be:
 - The mother of an infant aged two to four months who was not born preterm (before 37 weeks)
 - Breastfeeding your infant
 - Currently living in New Haven
-- Have lived in New Haven or nearby towns for 5+ years
 - An English or Spanish speaker
 
 If you want to find out more about what participants have to do, go to the tab "Projects".
