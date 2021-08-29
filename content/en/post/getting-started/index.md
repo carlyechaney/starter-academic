@@ -45,9 +45,9 @@ We are currently looking for participants for the CHERIsHED Project! Please reac
 - You are the mother of an infant aged two to four months who was not born preterm (before 37 weeks)
 - You are breastfeeding your infant
 - You are currently living in New Haven
-- You have lived in New Haven or nearby towns for 5+ years
 - You speak English or Spanish
 
 Mothers who participate will recieve $40 and a personalized report of their and their infant's exposure. See the flyer below and the "Projects" tab for more information on what participating involves. 
-![8x11 5 flyer (1)](https://user-images.githubusercontent.com/60330966/109865357-f1fc0800-7c31-11eb-82f1-c000c6cb9d6b.png)
+![Copy of 8x11 5 flyer](https://user-images.githubusercontent.com/60330966/131266529-32d43952-55e7-4454-af6e-e768a438b46c.png)
+
 
